@@ -1,5 +1,7 @@
 # Apointment Scheduling Assistant
 
+# DEMO LINK   [https://appointment-schedule-agent-qvobhked3uthgmfetc2mmq.streamlit.app/]
+
 A Streamlit proof of concept for a medical clinic scheduling assistant. Visitors can chat with the assistant using sample appointment availability and choose between appointment booking, medical safety, and general query demonstrations.
 
 ## Requirements
